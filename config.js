@@ -27,8 +27,8 @@ global.APIKeys = { // APIKey Here
 
 // CONEXION CON CODIGO DE 8 DIGITOS
 
-global.KasumaCode = "" 
-global.confirmCode = ""
+global.KasumaCode = "57 317 6194054" 
+global.confirmCode = "57"
 
 
 // KASU API
